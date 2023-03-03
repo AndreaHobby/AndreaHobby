@@ -19,6 +19,9 @@ Overall, I have more than 15 years of experience working in the healthcare indus
 
 I got my MS in Epidemiology from Georgetown University with a Certificate in Data Science. For undergraduate, I graduated from Wellesley College. 
 
+## &#x270f; Recent Data Science Articles 
+* [Race Correction in Kidney Function Algorithms and Disparities in Kidney Transplant Wait List Time](https://healthdatascience.substack.com/p/race-correction-in-kidney-function)
+
 ## Find me around the web 🌎
 Sharing updates on <a href="https://www.linkedin.com/in/andreahobby/">LinkedIn</a> 💼
 
