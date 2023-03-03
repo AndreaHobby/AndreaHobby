@@ -11,7 +11,7 @@ Currently at Accenture, I've worked on a bunch of different teams and projects, 
 
 ### 🏛 History
 
-#### 👩‍💻 Experience
+#### 👩🏾‍💻 Experience
 
 Overall, I have more than 15 years of experience working in the healthcare industry. For the last 2 years, I've been at Accenture. Before Accenture, I worked at the FDA for a year in a data science fellowship. Prior, I worked at a variety of universities in clinical research operations and data management. 
 
