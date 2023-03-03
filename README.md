@@ -1,8 +1,12 @@
 ## 👋 Welcome!
 
-My name is Andrea, and I'm a data scientist at Accenture with a passion for healthcare. As a data scientist, I help organizations make data-driven decisions developing healthcare costs prdictive models, fraud detection models, and healthcare utlization models. Through my most recent project, I saved an organization millions of dollars by improving the AUC in the models compared to the previous year. 
+My name is Andrea, and I'm a data scientist at Accenture with a passion for healthcare based in Washington DC. 
 
-I have experience in data governance, statistical analysis, machine learning with neural networks, decision trees, and ensemble models. 
+Currently at Accenture, I've worked on a bunch of different teams and projects, including:
+
+- **Cancer**: Built decision tree model to predict the cost of cancer care for breast cancer patients 
+- **Fraud**: Designed 5 fraud detection models that saved a government agency over 500 million dollars
+- **Infectious Disease**: Built an infectious disease lab testing dashboard in Tableau for a state with the population of 1 million residents. 
 
 ### 🏛 History
 
