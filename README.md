@@ -9,8 +9,8 @@ Currently at Accenture, I've worked on a bunch of different teams and projects, 
 - **Infectious Disease**: Built an infectious disease lab testing dashboard in Tableau for a state with the population of 1 million residents. 
 
 I also work on some projects for fun:
-#😂 app:  
-#🔥 package 
+/*😂 app:  */
+/*🔥 package */
 
 ### 🏛 History
 
