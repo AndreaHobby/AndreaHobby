@@ -20,3 +20,6 @@ I got my MS in Epidemiology from Georgetown University with a Certificate in Dat
 
 ## Find me around the web 🌎
 - Sharing updates on <a href="https://www.linkedin.com/in/andreahobby/">LinkedIn</a> 💼
+- * :bird: Twitter: https://twitter.com/@ahobby9
+
+<a href="https://twitter.com/ahobby9"><img src="https://img.shields.io/twitter/follow/ahobby9?label=Twitter&style=social" alt="Twitter"></a>
