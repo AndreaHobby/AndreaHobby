@@ -4,3 +4,6 @@ My name is Andrea, and I'm a data scientist at Accenture with a passion for heal
 
 I have experience in data governance, statistical analysis, machine learning with neural networks, decision trees, and ensemble models. 
 
+## Find me around the web 🌎
+- Sharing updates on <a href="[https://www.linkedin.com/in/andreahobby/](https://www.linkedin.com/in/andreahobby/)">LinkedIn</a> 💼
+
