@@ -1,4 +1,4 @@
-## 👋 Welcome!
+## 👋🏽 Welcome!
 
 My name is Andrea, and I'm a data scientist at Accenture with a passion for healthcare based in Washington DC. 
 
@@ -20,7 +20,7 @@ Overall, I have more than 15 years of experience working in the healthcare indus
 I got my MS in Epidemiology from Georgetown University with a Certificate in Data Science. For undergraduate, I graduated from Wellesley College. 
 
 ## Find me around the web 🌎
-- Sharing updates on <a href="https://www.linkedin.com/in/andreahobby/">LinkedIn</a> 💼
-- :bird: Twitter: https://twitter.com/@ahobby9
+Sharing updates on <a href="https://www.linkedin.com/in/andreahobby/">LinkedIn</a> 💼
+:bird: Twitter: https://twitter.com/@ahobby9
 
 <a href="https://twitter.com/ahobby9"><img src="https://img.shields.io/twitter/follow/ahobby9?label=Twitter&style=social" alt="Twitter"></a>
