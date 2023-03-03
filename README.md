@@ -8,9 +8,6 @@ Currently at Accenture, I've worked on a bunch of different teams and projects, 
 - **Fraud**: Designed 5 fraud detection models that saved a government agency over 500 million dollars
 - **Infectious Disease**: Built an infectious disease lab testing dashboard in Tableau for a state with the population of 1 million residents. 
 
-I also work on some projects for fun:
-/*😂 app:  */
-/*🔥 package */
 
 ### 🏛 History
 
