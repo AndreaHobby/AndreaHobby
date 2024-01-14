@@ -13,7 +13,7 @@ My name is Andrea, and I'm a data scientist with a passion for healthcare based 
 
 #### 👩🏾‍💻 Experience
 
-Overall, I have more than 15 years of experience working in the healthcare industry. For the last 2 years, I've been at Accenture. Before Accenture, I worked at the FDA for a year in a data science fellowship. Prior, I worked at a variety of universities in clinical research operations and data management. 
+Overall, I have more than 15 years of experience working in the healthcare industry. Previuosly, I worked at Accenture for several years as a Data Scientist. Before Accenture, I worked at the FDA for a year in a data science fellowship. Prior, I worked at a variety of universities in clinical research operations and data management. 
 
 #### 👩🏾‍🎓 Education
 
