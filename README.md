@@ -17,7 +17,7 @@ Overall, I have more than 15 years of experience working in the healthcare indus
 
 #### 👩🏾‍🎓 Education
 
-I got my MS in Epidemiology from Georgetown University with a Certificate in Data Science. For undergraduate, I graduated from Wellesley College. Incoming doctoral student at Johns Hopkins School of Public Health in June 2024. 
+Currently, I am a doctoral student at Johns Hopkins School of Public Health. Previously, I got my MS in Epidemiology from Georgetown University with a Certificate in Data Science. For undergraduate, I graduated from Wellesley College.
 
 #### &#x270f; Recent Data Science Articles 
 * [Race Correction in Kidney Function Algorithms and Disparities in Kidney Transplant Wait List Time](https://healthdatascience.substack.com/p/race-correction-in-kidney-function)
