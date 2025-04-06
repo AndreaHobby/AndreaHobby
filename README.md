@@ -6,7 +6,7 @@ My name is Andrea, and I'm a Director of Data Science at a nonprofit focused on 
 - Currently, I am a doctoral student at Johns Hopkins School of Public Health. Previously, I got my MS in Epidemiology from Georgetown University with a Certificate in Data Science. For undergraduate, I graduated from Wellesley College.
 - Overall, I have more than 15 years of experience working in the healthcare industry. Previuosly, I worked at Accenture for several years as a Data Scientist. Before Accenture, I worked at the FDA for a year in a data science fellowship. Prior, I worked at a variety of universities in clinical research operations and data management. 
 
-## 🧬 What I Do In My Current Role:
+## 🧪 What I Do In My Current Role:
 - **Strategic Leadership and Portfolio Management**: Oversee the data science portfolio, ensuring alignment with organizational priorities, managing budgets, and fostering cross-functional collaboration.
 - **Stakeholder Engagement and Collaboration**: Act as a liaison to committees, build partnerships with public and private organizations, and manage strategic initiatives' agendas and logistics.
 - **Education, Training, and Communication**: Develop educational content in collaboration with experts and contribute to digital marketing initiatives tailored to diverse audiences.
