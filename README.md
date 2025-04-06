@@ -24,6 +24,7 @@ My name is Andrea, and I'm a Director of Data Science at a nonprofit focused on 
 - **HHS AI Strategic Plan**: Collaborated with my former colleagues at HHS to develop the HHS AI Strategic plan.
 - **Cancer**: Built decision tree model to predict the cost of cancer care for breast cancer patients 
 - **Infectious Disease**: Built an infectious disease lab testing dashboard in Tableau for a state with the population of 1 million residents.
+- **Data Privacy**: Developed along with my teammates Python-based scripts which was integrated with Snowflake to detect Personally Identifiable Information (PII) of American taxpayers who seek care at community health centers
 
 
 ## 🎤 Speaking & Thought Leadership:
