@@ -34,7 +34,7 @@ My name is Andrea, and I'm a Director of Data Science at a nonprofit focused on 
 
 ## Find me around the web 🌎
 - Sharing updates on <a href="https://www.linkedin.com/in/andreahobby/">LinkedIn</a> 💼
-- 📝 [Health Innovation Newsletter]([https://your-newsletter-link.com](https://healthinnovation.substack.com/)) – Writing on health AI, leadership, and data strategy
+- 📝 [Health Innovation Newsletter]([https://your-newsletter-link.com](https://healthinnovation.substack.com/)) – Sharing information on jobs, events, and other opportunities.
 
 
 
