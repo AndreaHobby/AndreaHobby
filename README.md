@@ -9,8 +9,9 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 **Director of Data Science** | Association for Diagnostics & Laboratory Medicine (2025-Present)
 
 **Data Scientist** | Health Resources and Services Administration, HHS (2023-2025)
-- Member of HHS Artificial Intelligence Community of Practice contributing to federal AI governance frameworks
-- Led health equity data science for federal Health Center Program (1,400+ FQHCs, 30M patients)
+- Contributed information on health equity to **HHS AI strategy**
+- Led health equity analytics for federal Health Center Program (1,400+ FQHCs, 30M patients)
+- **Developed automated PHI detection system in Snowflake** for UDS+ data submissions, flagging protected health information before ingestion to ensure HIPAA compliance across 1,400+ health centers
 
 **Data Scientist** | Accenture Federal Services (2021-2023)
 - Built fraud detection models for 4M-beneficiary federal healthcare program achieving >90% AUC, **$500M+ annual savings**
