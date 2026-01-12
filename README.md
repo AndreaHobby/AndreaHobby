@@ -26,13 +26,11 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 
 ## 🛠️ Technical Capabilities
 
-**Analytics:** Python, R, SQL | Machine learning (scikit-learn, XGBoost, TensorFlow) | Statistical modeling | Health equity methods
+**Analytics:** Python, R, SQL | Machine learning (scikit-learn, XGBoost, TensorFlow) | Tableau | Statistical modeling | Health equity methods
 
 **Healthcare Data:** Claims (IBM Explorys), EHR, HRSA UDS, NHANES | Federal reporting standards (OMB, CMS, HRSA)
 
-**Infrastructure:** Azure Databricks, AWS, PostgreSQL, Tableau, REDCap
-
-**Data Engineering:** Snowflake, Azure Databricks, AWS, PostgreSQL | ETL pipelines | Automated data quality checks
+**Data Engineering & Infrastructure:** Snowflake, Azure Databricks, AWS, PostgreSQL | ETL pipelines | Automated data quality checks | REDCap
 
 **Domain:** Algorithmic fairness, systematic reviews, clinical trial protocols, FDA/IRB compliance, social determinants of health
 
