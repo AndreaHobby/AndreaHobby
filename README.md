@@ -20,7 +20,7 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 **Data Science Fellow** | FDA Center for Veterinary Medicine (2020-2021)
 - Built safety surveillance dashboard analyzing 1M+ adverse event reports
 
-**Research Coordinator/Data Manager** | UCLA, Georgetown, UW, Johns Hopkins
+**Regulatory Coordinator/Data Manager** | UCLA, Georgetown, UW, Johns Hopkins
 - Regulatory Coordinator for first-in-human **Keytruda** melanoma immunotherapy study at UCLA
 - Contributed to research published in *JAMA* on pediatric transplant patients
 
