@@ -1,6 +1,6 @@
-# Andrea Hobby, DrPH Student
+# Andrea Hobby
 
-**Healthcare Data Scientist | Health Equity Analytics | Algorithmic Bias Research**
+**Healthcare Data Scientist | Doctoral Student, Johns Hopkins | 20 Years Experience**
 
 I'm a doctoral student at Johns Hopkins Bloomberg School of Public Health and Director of Data Science at the Association for Diagnostics & Laboratory Medicine, with 20 years of combined experience spanning clinical research operations and healthcare data science.
 
