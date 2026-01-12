@@ -38,8 +38,6 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 ## 🎓 Education
 
 **Doctor of Public Health (DrPH)** | Johns Hopkins Bloomberg School of Public Health | *Expected 2029*  
-*Focus: Algorithmic bias in clinical decision support systems and patient safety*
-
 **MS, Epidemiology** | Georgetown University  
 **Certificate, Data Science** | Georgetown University  
 **BA, Political Science** | Wellesley College
