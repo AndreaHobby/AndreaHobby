@@ -39,7 +39,8 @@ My doctoral research examines algorithmic bias in clinical decision support syst
 **Research Coordinator/Data Manager** | Georgetown University/UCLA/UW/JHSPH (2013-2020)
 - Contributed to research published in JAMA examining immunization patterns in pediatric transplant patients (Feldman et al., 2019)
 - Managed multi-site study data collection, regulatory compliance (IRB, FDA), and source data verification
-
+- Regulatory Coordinator and Data Manager for first-in-human Keytruda (pembrolizumab) melanoma immunotherapy study at UCLA
+  
 ---
 
 ## 🛠️ Technical Skills
@@ -73,13 +74,6 @@ My doctoral research examines algorithmic bias in clinical decision support syst
 Preservation of federal AI governance documents from my tenure contributing to HHS Artificial Intelligence Community of Practice. Demonstrates federal AI strategy development and algorithmic fairness frameworks.
 
 **Skills:** AI governance, federal policy, healthcare AI ethics
-
----
-
-### [Maternal Depression and Child Behavior Analysis](https://github.com/AndreaHobby/Maternal-Depression-and-Behavior-Problems)
-Longitudinal analysis examining associations between maternal depression and child behavioral outcomes using repeated measures data.
-
-**Skills:** R, longitudinal modeling, behavioral health research, mixed-effects models
 
 ---
 
