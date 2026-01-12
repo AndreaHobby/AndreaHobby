@@ -116,6 +116,8 @@ Thesis: Health disparities in access to HCV+ to HCV- kidney transplants
 **Publications:**
 - Pourat, N., **Hobby, A.**, Ryan, J., & Sripipatana, A. (2024). HRSA-funded health centers reduce healthcare expenditures of complex California Medicaid managed care beneficiaries. *Presented at AcademyHealth Annual Research Meeting.*
 
+**Research Contributions:**
+- Feldman, A.G., Sundaram, S.S., Beaty, B.L., Torres, R., Curtis, D.J., Kempe, A. (2019). Immunization status at the time of liver transplant in children and adolescents. *JAMA*, 322(18), 1822-1824. [Acknowledged for data management and study coordination]
 
 **Conference Presentations:**
 - Black in Data Week 2023: "Data Science Project Template & Best Practices"
