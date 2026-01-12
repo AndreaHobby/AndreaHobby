@@ -37,7 +37,8 @@ My doctoral research examines algorithmic bias in clinical decision support syst
 - Designed PostgreSQL database architecture and AWS-hosted Tableau visualization
 
 **Research Coordinator/Data Manager** | Georgetown University/UCLA/UW/JHSPH (2013-2020)
-- Managed multi-site study data collection and regulatory compliance
+- Contributed to research published in JAMA examining immunization patterns in pediatric transplant patients (Feldman et al., 2019)
+- Managed multi-site study data collection, regulatory compliance (IRB, FDA), and source data verification
 
 ---
 
