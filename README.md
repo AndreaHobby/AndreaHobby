@@ -36,7 +36,7 @@ My doctoral research examines algorithmic bias in clinical decision support syst
 - Built safety surveillance dashboard analyzing 1M+ adverse event reports
 - Designed PostgreSQL database architecture and AWS-hosted Tableau visualization
 
-**Research Coordinator/Data Manager** | Georgetown University/UCLA/UW/JHSPH (2013-2020)
+**Research Coordinator/Data Manager** | Georgetown University/UCLA/UW/JHSPH  
 - Contributed to research published in JAMA examining immunization patterns in pediatric transplant patients (Feldman et al., 2019)
 - Managed multi-site study data collection, regulatory compliance (IRB, FDA), and source data verification
 - Regulatory Coordinator and Data Manager for first-in-human Keytruda (pembrolizumab) melanoma immunotherapy study at UCLA
