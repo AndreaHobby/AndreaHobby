@@ -46,7 +46,7 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 
 ## 📂 Featured Work
 
-**[HHS AI Policy Archive](https://github.com/AndreaHobby/hhs-ai-policy-archive)** - Federal AI governance documents from HHS AI Community of Practice participation
+**[HHS AI Strategy Archive](https://github.com/AndreaHobby/hhs-ai-strategy-archive)** - Federal AI governance documents from HHS AI Community of Practice participation
 
 **[Data Science Best Practices](https://github.com/AndreaHobby/black-in-data-2023-presentation)** - Black in Data Week 2023 presentation on reproducible research workflows
 
