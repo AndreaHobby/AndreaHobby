@@ -11,7 +11,7 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 **Data Scientist** | Health Resources and Services Administration, HHS (2023-2025)
 - Contributed information on health equity to **HHS AI strategy**
 - Led health equity analytics for federal Health Center Program (1,400+ FQHCs, 30M patients)
-- **Developed automated PHI detection system in Snowflake** for UDS+ data submissions, flagging protected health information before ingestion to ensure HIPAA compliance across 1,400+ health centers
+- Contributed to automated **PHI detection** system in Snowflake for UDS+ data submissions, developing pattern-matching algorithms to flag protected health information and ensure HIPAA compliance across 1,400+ health centers
 
 **Data Scientist** | Accenture Federal Services (2021-2023)
 - Built fraud detection models for 4M-beneficiary federal healthcare program achieving >90% AUC, **$500M+ annual savings**
@@ -32,7 +32,10 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 
 **Infrastructure:** Azure Databricks, AWS, PostgreSQL, Tableau, REDCap
 
+**Data Engineering:** Snowflake, Azure Databricks, AWS, PostgreSQL | ETL pipelines | Automated data quality checks
+
 **Domain:** Algorithmic fairness, systematic reviews, clinical trial protocols, FDA/IRB compliance, social determinants of health
+
 
 ## 🎓 Education
 
@@ -60,6 +63,7 @@ Available for research collaboration in my capacity as a doctoral researcher:
 - Systematic literature reviews (search strategy, screening, PRISMA documentation)
 - Algorithmic bias evaluation for healthcare prediction models
 - Statistical consultation and manuscript development
+- Data quality automation and HIPAA compliance support
 
 **Inquiry:** ahobby1@jh.edu
 
