@@ -4,8 +4,6 @@
 
 Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg School of Public Health, specializing in algorithmic bias, health equity analytics, and patient safety in healthcare AI.
 
----
-
 ## 💼 Select Experience
 
 **Director of Data Science** | Association for Diagnostics & Laboratory Medicine (2025-Present)
@@ -25,8 +23,6 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 - Regulatory Coordinator for first-in-human **Keytruda** melanoma immunotherapy study at UCLA
 - Contributed to research published in *JAMA* on pediatric transplant patients
 
----
-
 ## 🛠️ Technical Capabilities
 
 **Analytics:** Python, R, SQL | Machine learning (scikit-learn, XGBoost, TensorFlow) | Statistical modeling | Health equity methods
@@ -37,8 +33,6 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 
 **Domain:** Algorithmic fairness, systematic reviews, clinical trial protocols, FDA/IRB compliance, social determinants of health
 
----
-
 ## 🎓 Education
 
 **Doctor of Public Health (DrPH)** | Johns Hopkins Bloomberg School of Public Health | *Expected 2029*  
@@ -48,8 +42,6 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 **Certificate, Data Science** | Georgetown University  
 **BA, Political Science** | Wellesley College
 
----
-
 ## 📂 Featured Work
 
 **[HHS AI Policy Archive](https://github.com/AndreaHobby/hhs-ai-policy-archive)** - Federal AI governance documents from HHS AI Community of Practice participation
@@ -57,8 +49,6 @@ Director of Data Science at ADLM and doctoral student at Johns Hopkins Bloomberg
 **[Data Science Best Practices](https://github.com/AndreaHobby/black-in-data-2023-presentation)** - Black in Data Week 2023 presentation on reproducible research workflows
 
 *Portfolio projects in development: Federal health equity analytics templates, healthcare visualization examples, systematic review tools*
-
----
 
 ## 🤝 Research Collaboration
 
@@ -72,8 +62,6 @@ Available for research collaboration in my capacity as a doctoral researcher:
 
 **Inquiry:** ahobby1@jh.edu
 
----
-
 ## 📝 Publications & Presentations
 
 - Pourat, N., **Hobby, A.**, et al. (2024). HRSA-funded health centers reduce healthcare expenditures. *AcademyHealth Annual Research Meeting*
@@ -82,18 +70,12 @@ Available for research collaboration in my capacity as a doctoral researcher:
 - Presenter: "Data Science Best Practices" - Black in Data Week 2023
 - Reviewer: HIMSS, Black in AI, NeurIPS (2024)
 
----
-
 ## 📬 Connect
 
 **Newsletter:** [Health Innovation](https://healthinnovation.substack.com/) - Monthly insights on healthcare AI and health equity  
 **LinkedIn:** [linkedin.com/in/andreahobby](https://www.linkedin.com/in/andreahobby/)  
 **ORCID:** [0009-0003-8006-9605](https://orcid.org/0009-0003-8006-9605)
 
----
-
 **Currently:** Studying Applied Clinical Informatics & Patient Safety at Johns Hopkins | Building open-source health equity analytics tools
-
----
 
 *Research collaboration conducted in individual capacity as doctoral researcher, separate from institutional employment.*
